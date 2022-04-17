@@ -19,7 +19,7 @@
 			"name" => "graphvis",
 			"longname" => "graphvis : network topology",
 			"version" => "1.0",
-			"home_url" => "",
+			"home_url" => "https://github.com/Breloc/graphvis",
 		);
 	}
 
